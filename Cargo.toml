@@ -1,0 +1,10 @@
+[package]
+name = "libasicamera-sys"
+description = "bindings to the ZWO ASICamera2 library"
+version = "0.1.0"
+authors = ["Filip Szczerek <ga.software@yahoo.com>"]
+build = "build.rs"
+license = "MIT"
+homepage = "https://github.com/GreatAttractor/libasicamera-sys"
+repository = "https://github.com/GreatAttractor/libasicamera-sys"
+links = "ASICamera2"
